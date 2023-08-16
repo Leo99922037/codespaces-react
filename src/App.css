@@ -29,3 +29,12 @@
 .small {
   font-size: 0.75rem;
 }
+
+.Container {
+  background-color: rgb(85, 150, 248);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items:center;
+}
